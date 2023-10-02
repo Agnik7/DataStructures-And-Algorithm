@@ -28,6 +28,6 @@ Contributions are always welcome. Feel free to contribute as much as you want. R
 We are open to any type of contribution that is made by you in any language. Please do Contribute.
 If you have any query, you can discuss it by creating an Issue.
 # The Contributors of this Wonderful Project 😎
-<a href="https://github.com/N0vice17/DataStructures-And-Algorithm/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=N0vice17/DataStructures-And-Algorithm" />
+<a href = "https://github.com/N0vice17/DataStructures-And-Algorithm/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo = N0vice17/DataStructures-And-Algorithm"/>
 </a>
